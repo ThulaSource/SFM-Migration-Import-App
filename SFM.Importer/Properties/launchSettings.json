@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SFM.Importer": {
+      "commandName": "Project",
+      "commandLineArgs": "[INSERT TOKEN]"
+    }
+  }
+}
